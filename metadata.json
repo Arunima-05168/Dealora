@@ -1,0 +1,6 @@
+{
+  "name": "Dealora Shopping Site",
+  "description": "Comprehensive AI shopping intelligence & e-commerce shopping platform with price tracking, AI Buy Scores, live retailer comparison, flash deals, cart checkout, side-by-side product comparison, and coupon finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
